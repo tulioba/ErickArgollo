@@ -48,7 +48,7 @@ Sobre mim:
   <a href = "https://www.linkedin.com/in/erick-argollo"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 ##
- 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?tulioba)](https://github.com/anuraghazra/github-readme-stats)
   ![Snake animation](https://github.com/ErickArgollo/ErickArgollo/blob/output/github-contribution-grid-snake.svg)
  
 </div>
